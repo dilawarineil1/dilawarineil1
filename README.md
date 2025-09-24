@@ -10,7 +10,8 @@
 💡 Skills: Python, SQL, Power BI, Tableau, TensorFlow/Keras, scikit-learn, machine learning, time series, data visualization.
 
 🚀 Featured Projects:
-- [SPY Stock Price Direction Prediction] - LSTM model to predict next-day market direction utilizing SMA, Bollinger Bands, and RSI Indicators.
+- [SPY Stock Price Direction Prediction](https://github.com/dilawarineil1/SPY-LSTM-Direction-Prediction) - LSTM model to predict next-day market direction utilizing SMA, Bollinger Bands, and RSI Indicators.
+- [United States Home Ownership Affordability Crisis Analysis](https://github.com/dilawarineil1/US-Home-Ownership-Affordability-Crisis-Analysis) - Data Analysis project utilizing FRED, Census Bureau, National Association of Realtors, and Apartment List data to show how home ownership has become so unaffordable.
 - More coming soon!
 
 🌐 [LinkedIn](https://www.linkedin.com/in/ndilawari/)
