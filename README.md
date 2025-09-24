@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Neil 👋
 
 <!--
 **dilawarineil1/dilawarineil1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 M.S. in Business Analytics - W.P. Carey School of Business, Arizona State University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Passionate about Data Science, AI / ML, Quantitative Finance, and Analytics – seeking Data Science, AI/ML, and Quantitative Finance roles.
+
+💡 Skills: Python, SQL, Power BI, Tableau, TensorFlow/Keras, scikit-learn, machine learning, time series, data visualization.
+
+🚀 Featured Projects:
+- [SPY Stock Price Direction Prediction] - LSTM model to predict next-day market direction utilizing SMA, Bollinger Bands, and RSI Indicators.
+- More coming soon!
+
+🌐 [LinkedIn](https://www.linkedin.com/in/ndilawari/)
+✉️ <ndilawar@asu.edu>
