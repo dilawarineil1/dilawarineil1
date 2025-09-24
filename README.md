@@ -1,7 +1,7 @@
 ## Hi, I'm Neil 👋
 
 <!--
-**dilawarineil1/dilawarineil1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dilawarineil1/dilawarineil1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 🎓 M.S. in Business Analytics - W.P. Carey School of Business, Arizona State University
 
@@ -14,4 +14,4 @@
 - More coming soon!
 
 🌐 [LinkedIn](https://www.linkedin.com/in/ndilawari/)
-✉️ <ndilawar@asu.edu>
+✉️ [Contact Me](<ndilawar@asu.edu>)
