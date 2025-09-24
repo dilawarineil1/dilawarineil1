@@ -14,4 +14,4 @@
 - More coming soon!
 
 🌐 [LinkedIn](https://www.linkedin.com/in/ndilawari/)
-✉️ [Contact Me](<ndilawar@asu.edu>)
+✉️ <ndilawar@asu.edu>
