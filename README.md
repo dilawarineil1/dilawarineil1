@@ -18,7 +18,7 @@
 
 📝 Resumes:
 - [Quant Resume](/resumes/Neil_Dilawari_Quant_Resume.pdf)
-- [Data Science Resume]
+- [Data Science Resume](/resumes/Neil_Dilawari_Data_Science_Resume.pdf)
 - [Data Analyst Resume]
 
 🌐 [LinkedIn](https://www.linkedin.com/in/ndilawari/)
