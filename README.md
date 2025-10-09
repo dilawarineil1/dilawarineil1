@@ -17,9 +17,9 @@
 - More coming soon!
 
 📝 Resumes:
-- [Quant Resume](/resumes/Neil_Dilawari_Quant_Resume.pdf)
-- [Data Science Resume](/resumes/Neil_Dilawari_Data_Science_Resume.pdf)
 - [Data Analyst Resume](/resumes/Neil_Dilawari_Data_Analytics_Resume.pdf)
+- [Data Science Resume](/resumes/Neil_Dilawari_Data_Science_Resume.pdf)
+- [Quant Resume](/resumes/Neil_Dilawari_Quant_Resume.pdf)
 
 🌐 [LinkedIn](https://www.linkedin.com/in/ndilawari/)
 ✉️ <ndilawar@asu.edu>
