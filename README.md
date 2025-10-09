@@ -18,8 +18,8 @@
 
 📝 Resumes:
 - [Data Analyst Resume](https://drive.google.com/file/d/1T0vOiiUhbhcvODYegFEuobotgx_NFPwV/view?usp=drive_link)
-- [Data Science Resume](/resumes/Neil_Dilawari_Data_Science_Resume.pdf)
-- [Quant Resume](/resumes/Neil_Dilawari_Quant_Resume.pdf)
+- [Data Science Resume](https://drive.google.com/file/d/1_6BfzQtje8v6JONcoAyPvOR8TqRx68wE/view?usp=drive_link)
+- [Quant Resume](https://drive.google.com/file/d/1pLxuxeh-UvQibot4P4MQhuWmOz_jl-It/view?usp=drive_link)
 
 🌐 [LinkedIn](https://www.linkedin.com/in/ndilawari/)
 ✉️ <ndilawar@asu.edu>
