@@ -14,5 +14,10 @@
 - [United States Home Ownership Affordability Crisis Analysis](https://github.com/dilawarineil1/US-Home-Ownership-Affordability-Crisis-Analysis) - Data Analysis project utilizing FRED, Census Bureau, National Association of Realtors, and Apartment List data to show how home ownership has become so unaffordable.
 - More coming soon!
 
+📝 Resumes:
+- [Quant Resume]
+- [Data Science Resume]
+- [Data Analyst Resume]
+
 🌐 [LinkedIn](https://www.linkedin.com/in/ndilawari/)
 ✉️ <ndilawar@asu.edu>
