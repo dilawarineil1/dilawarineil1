@@ -17,7 +17,7 @@
 - More coming soon!
 
 📝 Resumes:
-- [Data Analyst Resume](/resumes/Neil_Dilawari_Data_Analytics_Resume.pdf)
+- [Data Analyst Resume](https://github.com/dilawarineil1/dilawarineil1/raw/main/resumes/Neil_Dilawari_Data_Analytics_Resume.pdf)
 - [Data Science Resume](/resumes/Neil_Dilawari_Data_Science_Resume.pdf)
 - [Quant Resume](/resumes/Neil_Dilawari_Quant_Resume.pdf)
 
