@@ -3,7 +3,7 @@
 <!--
 **dilawarineil1/dilawarineil1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-🎓 M.S. in Business Analytics - W.P. Carey School of Business, Arizona State University - December 2025
+🎓 M.S. in Business Analytics - W.P. Carey School of Business, Arizona State University
 
 💼 Passionate about Data Science, AI / ML, Quantitative Finance, and Analytics – seeking Data Analytics, Data Science, Operations/Strategy, AI/ML, or Quantitative Finance roles.
 
