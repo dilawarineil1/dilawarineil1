@@ -5,7 +5,7 @@
 
 🎓 M.S. in Business Analytics - W.P. Carey School of Business, Arizona State University - December 2025
 
-💼 Passionate about Data Science, AI / ML, Quantitative Finance, and Analytics – seeking Data Science, AI/ML, or Quantitative Finance roles.
+💼 Passionate about Data Science, AI / ML, Quantitative Finance, and Analytics – seeking Data Analytics, Data Science, Operations/Strategy, AI/ML, or Quantitative Finance roles.
 
 📝 Resumes:
 - [Data Analyst Resume](https://drive.google.com/file/d/1T0vOiiUhbhcvODYegFEuobotgx_NFPwV/view?usp=drive_link)
